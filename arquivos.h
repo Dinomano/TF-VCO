@@ -1,0 +1,2 @@
+void criar();
+void lerArquivo();
